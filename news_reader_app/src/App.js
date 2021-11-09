@@ -6,9 +6,9 @@ function App() {
   useEffect(()=>{
     alanBtn({
       key:alanKey,
-      onCommand:({command})=>{
-        if(command==='testcommand'){
-          alert("Command Executed")
+      onCommand:({command,articles})=>{
+        if(command==='newsHeadlines'){
+          console.log(articles);
         }
       }
     })
