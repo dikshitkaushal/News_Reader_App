@@ -2,8 +2,8 @@ import { makeStyles } from "@material-ui/core";
 
 export default makeStyles({
   media: {
-    height: 250,
-    width:'100%'
+    height: 165,
+    width:"100%",
   },
   border: {
     border: "solid",
