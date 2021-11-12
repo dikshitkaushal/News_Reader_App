@@ -14,6 +14,9 @@ function App() {
         if(command==='newsHeadlines'){
           setNewsarticles(articles);
         }
+        else if (command==="headlines"){
+          
+        }
       }
     })
   },[])
