@@ -1,4 +1,5 @@
-#Hosted Site: https://news-reader-app-8d444.web.app/
+# Hosted Site
+ https://news-reader-app-8d444.web.app/
 
 # Getting Started with Create React App
 
